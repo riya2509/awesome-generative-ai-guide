@@ -6,7 +6,9 @@ Owner: Aishwarya Nr
 
 1. **What is the difference between generative and discriminative models?**
 - Answer:
-    - Generative models, such as Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs), are designed to generate new data samples by understanding and capturing the underlying data distribution. Discriminative models, on the other hand, focus on distinguishing between different classes or categories within the data.
+    - Generative models, such as Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs), are designed to generate new data samples by understanding and capturing the underlying data distribution. Discriminative models such as logistic regression , on the other hand, focus on distinguishing between different classes or categories within the data.
+ 
+    - These are the two different types of ML model
         
         ![60_fig_8](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/interview_prep/img/60_fig_8.png)
         
